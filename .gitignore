@@ -1,0 +1,4 @@
+.sync-manifest.json
+.DS_Store
+__pycache__/
+*.pyc
